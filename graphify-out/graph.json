@@ -1,0 +1,394 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "eslint.config.mjs",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\eslint.config.mjs",
+      "source_location": "L1",
+      "id": "d_portfolio_eslint_config_mjs",
+      "community": 7,
+      "norm_label": "eslint.config.mjs"
+    },
+    {
+      "label": "next-env.d.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\next-env.d.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_next_env_d_ts",
+      "community": 8,
+      "norm_label": "next-env.d.ts"
+    },
+    {
+      "label": "next.config.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\next.config.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_next_config_ts",
+      "community": 9,
+      "norm_label": "next.config.ts"
+    },
+    {
+      "label": "postcss.config.mjs",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\postcss.config.mjs",
+      "source_location": "L1",
+      "id": "d_portfolio_postcss_config_mjs",
+      "community": 10,
+      "norm_label": "postcss.config.mjs"
+    },
+    {
+      "label": "prisma.config.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\prisma.config.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_prisma_config_ts",
+      "community": 11,
+      "norm_label": "prisma.config.ts"
+    },
+    {
+      "label": "tailwind.config.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\tailwind.config.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_tailwind_config_ts",
+      "community": 12,
+      "norm_label": "tailwind.config.ts"
+    },
+    {
+      "label": "projectActions.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\actions\\projectActions.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_src_actions_projectactions_ts",
+      "community": 1,
+      "norm_label": "projectactions.ts"
+    },
+    {
+      "label": "addProject()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\actions\\projectActions.ts",
+      "source_location": "L6",
+      "id": "projectactions_addproject",
+      "community": 1,
+      "norm_label": "addproject()"
+    },
+    {
+      "label": "deleteProject()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\actions\\projectActions.ts",
+      "source_location": "L22",
+      "id": "projectactions_deleteproject",
+      "community": 1,
+      "norm_label": "deleteproject()"
+    },
+    {
+      "label": "layout.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\app\\layout.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_app_layout_tsx",
+      "community": 2,
+      "norm_label": "layout.tsx"
+    },
+    {
+      "label": "RootLayout()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\app\\layout.tsx",
+      "source_location": "L14",
+      "id": "layout_rootlayout",
+      "community": 2,
+      "norm_label": "rootlayout()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\app\\page.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_app_page_tsx",
+      "community": 13,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "route.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\app\\api\\chat\\route.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_src_app_api_chat_route_ts",
+      "community": 3,
+      "norm_label": "route.ts"
+    },
+    {
+      "label": "POST()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\app\\api\\chat\\route.ts",
+      "source_location": "L7",
+      "id": "route_post",
+      "community": 3,
+      "norm_label": "post()"
+    },
+    {
+      "label": "page.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\app\\hq-access\\page.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_app_hq_access_page_tsx",
+      "community": 14,
+      "norm_label": "page.tsx"
+    },
+    {
+      "label": "AiAgent.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_components_aiagent_tsx",
+      "community": 0,
+      "norm_label": "aiagent.tsx"
+    },
+    {
+      "label": "handleInputChange()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L20",
+      "id": "aiagent_handleinputchange",
+      "community": 0,
+      "norm_label": "handleinputchange()"
+    },
+    {
+      "label": "handleSubmit()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L24",
+      "id": "aiagent_handlesubmit",
+      "community": 0,
+      "norm_label": "handlesubmit()"
+    },
+    {
+      "label": "onSubmit()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L58",
+      "id": "aiagent_onsubmit",
+      "community": 0,
+      "norm_label": "onsubmit()"
+    },
+    {
+      "label": "FadeIn.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\FadeIn.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_components_fadein_tsx",
+      "community": 4,
+      "norm_label": "fadein.tsx"
+    },
+    {
+      "label": "FadeIn()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\FadeIn.tsx",
+      "source_location": "L13",
+      "id": "fadein_fadein",
+      "community": 4,
+      "norm_label": "fadein()"
+    },
+    {
+      "label": "ProfileHeader.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\ProfileHeader.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_components_profileheader_tsx",
+      "community": 15,
+      "norm_label": "profileheader.tsx"
+    },
+    {
+      "label": "ProjectCard.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\ProjectCard.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_components_projectcard_tsx",
+      "community": 16,
+      "norm_label": "projectcard.tsx"
+    },
+    {
+      "label": "ProjectGrid.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\ProjectGrid.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_components_projectgrid_tsx",
+      "community": 5,
+      "norm_label": "projectgrid.tsx"
+    },
+    {
+      "label": "ProjectGrid()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\ProjectGrid.tsx",
+      "source_location": "L30",
+      "id": "projectgrid_projectgrid",
+      "community": 5,
+      "norm_label": "projectgrid()"
+    },
+    {
+      "label": "StarBackground.tsx",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\components\\StarBackground.tsx",
+      "source_location": "L1",
+      "id": "d_portfolio_src_components_starbackground_tsx",
+      "community": 17,
+      "norm_label": "starbackground.tsx"
+    },
+    {
+      "label": "prisma.ts",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\lib\\prisma.ts",
+      "source_location": "L1",
+      "id": "d_portfolio_src_lib_prisma_ts",
+      "community": 6,
+      "norm_label": "prisma.ts"
+    },
+    {
+      "label": "prismaClientSingleton()",
+      "file_type": "code",
+      "source_file": "D:\\portfolio\\src\\lib\\prisma.ts",
+      "source_location": "L4",
+      "id": "prisma_prismaclientsingleton",
+      "community": 6,
+      "norm_label": "prismaclientsingleton()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\actions\\projectActions.ts",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_actions_projectactions_ts",
+      "_tgt": "projectactions_addproject",
+      "source": "d_portfolio_src_actions_projectactions_ts",
+      "target": "projectactions_addproject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\actions\\projectActions.ts",
+      "source_location": "L22",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_actions_projectactions_ts",
+      "_tgt": "projectactions_deleteproject",
+      "source": "d_portfolio_src_actions_projectactions_ts",
+      "target": "projectactions_deleteproject",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\app\\layout.tsx",
+      "source_location": "L14",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_app_layout_tsx",
+      "_tgt": "layout_rootlayout",
+      "source": "d_portfolio_src_app_layout_tsx",
+      "target": "layout_rootlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\app\\api\\chat\\route.ts",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_app_api_chat_route_ts",
+      "_tgt": "route_post",
+      "source": "d_portfolio_src_app_api_chat_route_ts",
+      "target": "route_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_components_aiagent_tsx",
+      "_tgt": "aiagent_handleinputchange",
+      "source": "d_portfolio_src_components_aiagent_tsx",
+      "target": "aiagent_handleinputchange",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_components_aiagent_tsx",
+      "_tgt": "aiagent_handlesubmit",
+      "source": "d_portfolio_src_components_aiagent_tsx",
+      "target": "aiagent_handlesubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L58",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_components_aiagent_tsx",
+      "_tgt": "aiagent_onsubmit",
+      "source": "d_portfolio_src_components_aiagent_tsx",
+      "target": "aiagent_onsubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\components\\AiAgent.tsx",
+      "source_location": "L62",
+      "weight": 1.0,
+      "_src": "aiagent_onsubmit",
+      "_tgt": "aiagent_handlesubmit",
+      "source": "aiagent_handlesubmit",
+      "target": "aiagent_onsubmit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\components\\FadeIn.tsx",
+      "source_location": "L13",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_components_fadein_tsx",
+      "_tgt": "fadein_fadein",
+      "source": "d_portfolio_src_components_fadein_tsx",
+      "target": "fadein_fadein",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\components\\ProjectGrid.tsx",
+      "source_location": "L30",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_components_projectgrid_tsx",
+      "_tgt": "projectgrid_projectgrid",
+      "source": "d_portfolio_src_components_projectgrid_tsx",
+      "target": "projectgrid_projectgrid",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "D:\\portfolio\\src\\lib\\prisma.ts",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "d_portfolio_src_lib_prisma_ts",
+      "_tgt": "prisma_prismaclientsingleton",
+      "source": "d_portfolio_src_lib_prisma_ts",
+      "target": "prisma_prismaclientsingleton",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
